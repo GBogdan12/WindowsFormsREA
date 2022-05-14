@@ -20,7 +20,7 @@ namespace Gheorghe_Dumitru_Bogdanel
 
         private void Bon_Load(object sender, EventArgs e)
         {
-
+            //push
             refreshGrid();
             filtreazaDetaliu();
 
